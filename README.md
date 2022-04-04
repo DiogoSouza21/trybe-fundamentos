@@ -1,1 +1,2 @@
-# Exercicios
+# Fundamentos
+Exercícios do bloco fundamentos.
